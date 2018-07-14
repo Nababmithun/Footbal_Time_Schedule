@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main13"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/black"
+    tools:context="ingenium.splashmyscreen.Main13Activity">
+
+
+
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+        <Button
+            android:background="#FFCBCFE9"
+            android:textAppearance="?android:textAppearance"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:text="  14 July 2018 , 10PM"
+            android:layout_width="match_parent"
+            android:layout_height="100dp" />
+
+
+
+
+        <TextView
+            android:padding="3dp"
+            android:layout_gravity="center"
+            android:textColor="#FF26F40F"
+            android:textSize="26dp"
+            android:text=" Winners Match 61"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+
+
+        <TextView
+            android:padding="3dp"
+            android:layout_gravity="center"
+            android:textColor="#FFA40FF4"
+            android:textSize="26dp"
+            android:text="Vs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:padding="3dp"
+            android:layout_gravity="center"
+            android:textColor="#FF26F40F"
+            android:textSize="26dp"
+            android:text="Winners Match 62"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textColor="#FF0FA8F4"
+            android:padding="3dp"
+            android:layout_gravity="center"
+            android:textSize="18dp"
+            android:text="Krestovsky Stadium, Saint Petersburg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:layout_marginTop="50dp"
+            android:layout_gravity="center"
+            android:src="@drawable/icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main10"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/black"
+    tools:context="ingenium.splashmyscreen.Main10Activity">
+
+      <LinearLayout
+          android:orientation="vertical"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent">
+
+
+
+          <Button
+              android:textAppearance="?android:textAppearance"
+              android:textStyle="bold"
+              android:textSize="25dp"
+              android:text="Match-49,  30 June 2018 , 8PM"
+              android:layout_width="match_parent"
+              android:layout_height="100dp" />
+
+
+
+
+          <TextView
+              android:padding="3dp"
+              android:layout_gravity="center"
+              android:textColor="#FFA40FF4"
+              android:textSize="26dp"
+              android:text=" Winners Group A"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
+
+
+
+
+          <TextView
+              android:padding="3dp"
+              android:layout_gravity="center"
+              android:textColor="#FF58F40F"
+              android:textSize="26dp"
+              android:text="Vs"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
+
+          <TextView
+              android:padding="3dp"
+              android:layout_gravity="center"
+              android:textColor="#FFA40FF4"
+              android:textSize="26dp"
+              android:text=" Runners-Up-Group B"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
+
+
+          <TextView
+              android:textColor="#FFA40FF4"
+              android:padding="3dp"
+              android:layout_gravity="center"
+              android:textSize="20dp"
+              android:text="Fisht Olympic Stadium, sochi"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
+
+
+
+          <Button
+              android:textAppearance="?android:textAppearance"
+              android:textStyle="bold"
+              android:textSize="25dp"
+              android:text="Match-50,  30 June 2018 , 12PM"
+              android:layout_width="match_parent"
+              android:layout_height="100dp" />
+
+
+
+
+          <TextView
+              android:padding="3dp"
+              android:layout_gravity="center"
+              android:textColor="@color/colorAccent"
+              android:textSize="26dp"
+              android:text="Winners Group C"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
+
+
+          <TextView
+              android:padding="3dp"
+              android:layout_gravity="center"
+              android:textColor="#FF58F40F"
+              android:textSize="26dp"
+              android:text="Vs"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
+
+
+
+
+
+
+          <TextView
+              android:padding="3dp"
+              android:layout_gravity="center"
+              android:textColor="@color/colorAccent"
+              android:textSize="26dp"
+              android:text="Runners-Up-Group D"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
+
+          <TextView
+              android:padding="3dp"
+              android:layout_gravity="center"
+              android:textColor="@color/colorAccent"
+              android:textSize="20dp"
+              android:text="Kazan Arena, Kazan"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
+
+
+
+
+
+
+
+          <Button
+              android:textAppearance="?android:textAppearance"
+              android:textStyle="bold"
+              android:textSize="25dp"
+              android:text="Match-51,  1 July 2018 , 8PM"
+              android:layout_width="match_parent"
+              android:layout_height="100dp" />
+
+
+
+
+          <TextView
+              android:padding="3dp"
+              android:layout_gravity="center"
+              android:textColor="#FF0FF467"
+              android:textSize="26dp"
+              android:text="Winners Group B"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
+
+
+          <TextView
+              android:padding="3dp"
+              android:layout_gravity="center"
+              android:textColor="#FF58F40F"
+              android:textSize="26dp"
+              android:text="Vs"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
+
+          <TextView
+              android:padding="3dp"
+              android:layout_gravity="center"
+              android:textColor="#FF0FF467"
+              android:textSize="26dp"
+              android:text="Runners-Up-Group A"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
+
+          <TextView
+              android:textColor="#FF0FF467"
+              android:padding="3dp"
+              android:layout_gravity="center"
+              android:textSize="20dp"
+              android:text="Luzhniki Stadium, Moscow"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
+
+
+
+
+
+
+          <Button
+              android:textAppearance="?android:textAppearance"
+              android:textStyle="bold"
+              android:textSize="25dp"
+              android:text="Match-52,  1 July 2018 , 8PM"
+              android:layout_width="match_parent"
+              android:layout_height="100dp" />
+
+
+
+
+          <TextView
+              android:padding="3dp"
+              android:layout_gravity="center"
+              android:textColor="#FF0FF4EC"
+              android:textSize="26dp"
+              android:text="Winners Group D"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
+
+
+          <TextView
+              android:padding="3dp"
+              android:layout_gravity="center"
+              android:textColor="#FF58F40F"
+              android:textSize="26dp"
+              android:text="Vs"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
+
+
+
+          <TextView
+              android:padding="3dp"
+              android:layout_gravity="center"
+              android:textColor="#FF0FF4EC"
+              android:textSize="26dp"
+              android:text="Runners-Up-Group C"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
+
+
+
+
+          <TextView
+              android:textColor="#FF0FF4EC"
+              android:padding="3dp"
+              android:layout_gravity="center"
+              android:textSize="20dp"
+              android:text="Nizhny Novgorod Stadium, Nizhny Novgorod  "
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
+
+
+
+          <Button
+              android:textAppearance="?android:textAppearance"
+              android:textStyle="bold"
+              android:textSize="25dp"
+              android:text="Match-53,  2 July 2018 , 3PM"
+              android:layout_width="match_parent"
+              android:layout_height="100dp" />
+
+
+
+
+          <TextView
+              android:padding="3dp"
+              android:layout_gravity="center"
+              android:textColor="#FF0F17F4"
+              android:textSize="26dp"
+              android:text="Winners Group E"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
+          <TextView
+              android:padding="3dp"
+              android:layout_gravity="center"
+              android:textColor="#FF58F40F"
+              android:textSize="26dp"
+              android:text="Vs"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
+
+
+          <TextView
+              android:padding="3dp"
+              android:layout_gravity="center"
+              android:textColor="#FF0F17F4"
+              android:textSize="26dp"
+              android:text="Runners-Up-Group F"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
+
+
+          <TextView
+              android:padding="3dp"
+              android:layout_gravity="center"
+              android:textColor="#FF0F17F4"
+              android:textSize="20dp"
+              android:text="Cosmos Arena, Samara"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
+
+
+
+
+
+
+
+          <Button
+              android:textAppearance="?android:textAppearance"
+              android:textStyle="bold"
+              android:textSize="25dp"
+              android:text="Match-54,  2 July 2018 , 8PM"
+              android:layout_width="match_parent"
+              android:layout_height="100dp" />
+
+
+
+
+          <TextView
+              android:padding="3dp"
+              android:layout_gravity="center"
+              android:textColor="#FFA4F40F"
+              android:textSize="26dp"
+              android:text="Winners Group G"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
+
+          <TextView
+              android:padding="3dp"
+              android:layout_gravity="center"
+              android:textColor="#FF58F40F"
+              android:textSize="26dp"
+              android:text=" Vs"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
+          <TextView
+              android:padding="3dp"
+              android:layout_gravity="center"
+              android:textColor="#FFA4F40F"
+              android:textSize="26dp"
+              android:text="Runners-Up-Group H"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
+
+
+
+          <TextView
+              android:textColor="#FFA4F40F"
+              android:padding="3dp"
+              android:layout_gravity="center"
+              android:textSize="20dp"
+              android:text="Rostov Arena,Rostov On Don"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
+
+
+
+
+          <Button
+              android:textAppearance="?android:textAppearance"
+              android:textStyle="bold"
+              android:textSize="25dp"
+              android:text="Match-55,  3 July 2018 , 12PM"
+              android:layout_width="match_parent"
+              android:layout_height="100dp" />
+
+
+
+
+                   <TextView
+              android:padding="3dp"
+              android:layout_gravity="center"
+              android:textColor="@color/colorAccent"
+              android:textSize="26dp"
+              android:text="Winners Group F"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
+
+          <TextView
+              android:padding="3dp"
+              android:layout_gravity="center"
+              android:textColor="#FF58F40F"
+              android:textSize="26dp"
+              android:text="Vs"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
+          <TextView
+              android:padding="3dp"
+              android:layout_gravity="center"
+              android:textColor="@color/colorAccent"
+              android:textSize="26dp"
+              android:text=" Runners-Up-Group E"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
+
+
+
+          <TextView
+              android:padding="3dp"
+              android:layout_gravity="center"
+              android:textColor="@color/colorAccent"
+              android:textSize="20dp"
+              android:text="Krestovsky Stadium,Saint Petersburg"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
+
+
+
+
+
+          <Button
+              android:textAppearance="?android:textAppearance"
+              android:textStyle="bold"
+              android:textSize="25dp"
+              android:text="Match-56,  3 July 2018 , 8PM"
+              android:layout_width="match_parent"
+              android:layout_height="100dp" />
+
+
+
+
+          <TextView
+              android:padding="3dp"
+              android:layout_gravity="center"
+              android:textColor="#FFF40F8D"
+              android:textSize="26dp"
+              android:text="Winners Group H"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
+          <TextView
+              android:padding="3dp"
+              android:layout_gravity="center"
+              android:textColor="#FF58F40F"
+              android:textSize="26dp"
+              android:text="Vs"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
+          <TextView
+              android:padding="3dp"
+              android:layout_gravity="center"
+              android:textColor="#FFF40F8D"
+              android:textSize="26dp"
+              android:text="Runners-Up-Group G"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
+
+
+
+          <TextView
+              android:padding="3dp"
+              android:layout_gravity="center"
+              android:textColor="#FFF40F8D"
+              android:textSize="20dp"
+              android:text="Otkrytiye Arena,Moscow"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
+      </LinearLayout>
+
+
+
+
+</ScrollView>

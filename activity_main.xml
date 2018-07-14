@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/black"
+    tools:context="ingenium.splashmyscreen.MainActivity">
+
+
+   <LinearLayout
+       android:orientation="vertical"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+
+       <Button
+           android:id="@+id/button1"
+           android:padding="10dp"
+           android:layout_marginLeft="115dp"
+           android:text="Group A"
+           android:textStyle="bold"
+           android:textSize="29dp"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content" />
+
+      <RadioButton
+          android:textColor="#FFED10C1"
+          android:layout_marginLeft="20dp"
+          android:textSize="25dp"
+          android:text="Egypt"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content" />
+       <RadioButton
+           android:textColor="#FFED10C1"
+           android:layout_marginLeft="20dp"
+           android:textSize="25dp"
+           android:text="Russia"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content" />
+       <RadioButton
+           android:textColor="#FFED10C1"
+           android:layout_marginLeft="20dp"
+           android:textSize="25dp"
+           android:text="Saudi Arabia"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content" />
+       <RadioButton
+           android:textColor="#FFED10C1"
+           android:layout_marginLeft="20dp"
+           android:textSize="25dp"
+           android:text="Uruguay"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content" />
+       <Button
+           android:id="@+id/button2"
+           android:padding="10dp"
+           android:layout_marginLeft="115dp"
+           android:text="Group B"
+           android:textStyle="bold"
+           android:textSize="29dp"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content" />
+
+       <RadioButton
+           android:textColor="#FF07E91E"
+           android:layout_marginLeft="20dp"
+           android:textSize="25dp"
+           android:text="Iran"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content" />
+       <RadioButton
+           android:textColor="#FF07E91E"
+           android:layout_marginLeft="20dp"
+           android:textSize="25dp"
+           android:text="Morocco"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content" />
+       <RadioButton
+           android:textColor="#FF07E91E"
+           android:layout_marginLeft="20dp"
+           android:textSize="25dp"
+           android:text="Portugal"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content" />
+       <RadioButton
+           android:textColor="#FF07E91E"
+           android:layout_marginLeft="20dp"
+           android:textSize="25dp"
+           android:text="Spain"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content" />
+
+       <Button
+           android:id="@+id/button3"
+           android:padding="10dp"
+           android:layout_marginLeft="115dp"
+           android:text="Group C"
+           android:textStyle="bold"
+           android:textSize="29dp"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content" />
+
+       <RadioButton
+           android:textColor="#FFA90CDE"
+           android:layout_marginLeft="20dp"
+           android:textSize="25dp"
+           android:text="Australia"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content" />
+       <RadioButton
+           android:textColor="#FFA90CDE"
+
+           android:layout_marginLeft="20dp"
+           android:textSize="25dp"
+           android:text="Denmark"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content" />
+       <RadioButton
+           android:textColor="#FFA90CDE"
+           android:layout_marginLeft="20dp"
+           android:textSize="25dp"
+           android:text="France"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content" />
+       <RadioButton
+           android:textColor="#FFA90CDE"
+
+           android:layout_marginLeft="20dp"
+           android:textSize="25dp"
+           android:text="Peru"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content" />
+
+
+
+       <Button
+           android:id="@+id/button4"
+           android:padding="10dp"
+           android:layout_marginLeft="115dp"
+           android:text="Group D"
+           android:textStyle="bold"
+           android:textSize="29dp"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content" />
+
+       <RadioButton
+           android:textColor="#FF10A5CA"
+           android:layout_marginLeft="20dp"
+           android:textSize="25dp"
+           android:text="Argentina"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content" />
+       <RadioButton
+           android:textColor="#FF10A5CA"
+
+           android:layout_marginLeft="20dp"
+           android:textSize="25dp"
+           android:text="Croatia"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content" />
+       <RadioButton
+           android:textColor="#FF10A5CA"
+
+           android:layout_marginLeft="20dp"
+           android:textSize="25dp"
+           android:text="Iceland"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content" />
+       <RadioButton
+           android:textColor="#FF10A5CA"
+
+           android:layout_marginLeft="20dp"
+           android:textSize="25dp"
+           android:text="Nigeria"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content" />
+
+
+
+
+
+    <Button
+        android:id="@+id/button5"
+        android:padding="10dp"
+        android:layout_marginLeft="115dp"
+        android:text="Group E"
+        android:textStyle="bold"
+        android:textSize="29dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <RadioButton
+        android:textColor="#FFAC3E2B"
+        android:layout_marginLeft="20dp"
+        android:textSize="25dp"
+        android:text="Brazil"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <RadioButton
+        android:textColor="#FFAC3E2B"
+
+        android:layout_marginLeft="20dp"
+        android:textSize="25dp"
+        android:text="Kosta Rica"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <RadioButton
+        android:textColor="#FFAC3E2B"
+
+        android:layout_marginLeft="20dp"
+        android:textSize="25dp"
+        android:text="Serbia "
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <RadioButton
+        android:textColor="#FFAC3E2B"
+
+        android:layout_marginLeft="20dp"
+        android:textSize="25dp"
+        android:text="Switzerland"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/button6"
+        android:padding="10dp"
+        android:layout_marginLeft="115dp"
+        android:text="Group F"
+        android:textStyle="bold"
+        android:textSize="29dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <RadioButton
+        android:textColor="#889FF29D"
+        android:layout_marginLeft="20dp"
+        android:textSize="25dp"
+        android:text="Germany"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <RadioButton
+        android:textColor="#889FF29D"
+        android:layout_marginLeft="20dp"
+        android:textSize="25dp"
+        android:text="South Korea"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <RadioButton
+        android:textColor="#889FF29D"
+        android:layout_marginLeft="20dp"
+        android:textSize="25dp"
+        android:text="Mixico"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <RadioButton
+        android:textColor="#889FF29D"
+        android:layout_marginLeft="20dp"
+        android:textSize="25dp"
+        android:text="Sweden"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+
+
+
+    <Button
+        android:id="@+id/button7"
+        android:padding="10dp"
+        android:layout_marginLeft="115dp"
+        android:text="Group G"
+        android:textStyle="bold"
+        android:textSize="29dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <RadioButton
+        android:textColor="#88D118F2"
+        android:layout_marginLeft="20dp"
+        android:textSize="25dp"
+        android:text="Belgum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <RadioButton
+        android:textColor="#88D118F2"
+        android:layout_marginLeft="20dp"
+        android:textSize="25dp"
+        android:text="England"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <RadioButton
+        android:textColor="#88D118F2"
+        android:layout_marginLeft="20dp"
+        android:textSize="25dp"
+        android:text="Panama"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <RadioButton
+        android:textColor="#88D118F2"
+        android:layout_marginLeft="20dp"
+        android:textSize="25dp"
+        android:text="Tunisia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+
+    <Button
+        android:id="@+id/button8"
+        android:padding="10dp"
+        android:layout_marginLeft="115dp"
+        android:text="Group H"
+        android:textStyle="bold"
+        android:textSize="29dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <RadioButton
+        android:textColor="#88F21C18"
+        android:layout_marginLeft="20dp"
+        android:textSize="25dp"
+        android:text="Colombia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <RadioButton
+        android:textColor="#88F21C18"
+        android:layout_marginLeft="20dp"
+        android:textSize="25dp"
+        android:text="Japan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <RadioButton
+        android:textColor="#88F21C18"
+        android:layout_marginLeft="20dp"
+        android:textSize="25dp"
+        android:text="Poland"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <RadioButton
+        android:textColor="#88F21C18"
+        android:layout_marginLeft="20dp"
+        android:textSize="25dp"
+        android:text="Senegal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+
+    <Button
+        android:textStyle="bold"
+        android:text="Round Of 16"
+        android:textColor="#88F2EB18"
+        android:textSize="29dp"
+        android:textAppearance="?android:textAppearance"
+        android:background="#88B818F2"
+        android:layout_marginTop="70dp"
+        android:id="@+id/roundoff"
+        android:padding="14dp"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+
+
+    <Button
+        android:textStyle="bold"
+        android:text="Quarter Finals"
+        android:textColor="#88184EF2"
+        android:textSize="29dp"
+        android:textAppearance="?android:textAppearance"
+        android:background="#88B818F2"
+        android:layout_marginTop="30dp"
+        android:id="@+id/quater"
+        android:padding="14dp"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+
+    <Button
+        android:textStyle="bold"
+        android:text="Semi Finals"
+        android:textColor="#88171817"
+        android:textSize="29dp"
+        android:textAppearance="?android:textAppearance"
+        android:background="#88B818F2"
+        android:layout_marginTop="30dp"
+        android:id="@+id/semifinal"
+        android:padding="14dp"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+
+    <Button
+        android:textStyle="bold"
+        android:text="3rd place Play Of"
+        android:textColor="#8818F2EB"
+        android:textSize="29dp"
+        android:textAppearance="?android:textAppearance"
+        android:background="#88B818F2"
+        android:layout_marginTop="30dp"
+        android:id="@+id/play"
+        android:padding="14dp"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+    <Button
+        android:textStyle="bold"
+        android:text="The Final"
+        android:textColor="#881FF218"
+        android:textSize="29dp"
+        android:textAppearance="?android:textAppearance"
+        android:background="#88B818F2"
+        android:layout_marginTop="30dp"
+        android:id="@+id/finaldd"
+        android:padding="14dp"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+
+
+   </LinearLayout>
+
+
+
+
+
+
+</ScrollView>

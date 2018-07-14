@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main5"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/black"
+    tools:context="ingenium.splashmyscreen.Main5Activity">
+
+
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:background="#FFE1AF0D"
+            android:textStyle="bold"
+            android:padding="15dp"
+            android:textSize="25dp"
+            android:textColor="@color/colorPrimary"
+            android:text="Match 7"
+            android:textAppearance="?android:textAppearance"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:text="Argentina  Vs  Iceland"
+            android:textSize="23dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:textSize="20dp"
+            android:text="16 June 2018,7PM"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:textSize="18dp"
+            android:text="Otktrytiye Arena,Moscow"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+
+
+
+        <Button
+            android:background="#FF0CBEE6"
+            android:textStyle="bold"
+            android:padding="15dp"
+            android:textSize="25dp"
+            android:textColor="@color/colorPrimary"
+            android:text="Match 8"
+            android:textAppearance="?android:textAppearance"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:text="Croatia  Vs  Nigeria"
+            android:textSize="23dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:textSize="20dp"
+            android:text="16 June 2018,1PM"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:textSize="18dp"
+            android:text="Kaliningrad Studiam,Kaliningrad"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+
+
+        <Button
+            android:background="#FFA9F119"
+            android:textStyle="bold"
+            android:padding="15dp"
+            android:textSize="25dp"
+            android:textColor="@color/colorPrimary"
+            android:text="Match 23"
+            android:textAppearance="?android:textAppearance"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:text="Argentina  Vs  Croatia"
+            android:textSize="23dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:textSize="20dp"
+            android:text="21 June 2018,12PM"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:textSize="18dp"
+            android:text="Nizhny Novgorod Stadium,Nizhny Novgorod"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <Button
+            android:background="#FF9469D2"
+            android:textStyle="bold"
+            android:padding="15dp"
+            android:textSize="25dp"
+            android:textColor="@color/colorPrimary"
+            android:text="Match 24"
+            android:textAppearance="?android:textAppearance"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:text="Nigeria   Vs  Iceland"
+            android:textSize="23dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:textSize="20dp"
+            android:text="22 June 2018,9PM"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:textSize="18dp"
+            android:text="Volgograd Arena,Volgograd"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+
+
+
+
+        <Button
+            android:background="#FF11F1D3"
+            android:textStyle="bold"
+            android:padding="15dp"
+            android:textSize="25dp"
+            android:textColor="@color/colorPrimary"
+            android:text="Match 39"
+            android:textAppearance="?android:textAppearance"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:text="Argentina  Vs  Nigeria"
+            android:textSize="23dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:textSize="20dp"
+            android:text="26 June 2018,12PM"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:textSize="18dp"
+            android:text="Krestovsky Stadium , Saint Petersburg"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+
+
+        <Button
+            android:background="#FFCFEAE7"
+            android:textStyle="bold"
+            android:padding="15dp"
+            android:textSize="25dp"
+            android:textColor="@color/colorPrimary"
+            android:text="Match 40"
+            android:textAppearance="?android:textAppearance"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:text="Iceland  Vs  Croatia"
+            android:textSize="23dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:textSize="20dp"
+            android:text="26 June 2018,12PM"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:textSize="18dp"
+            android:text="Rostov Arena,Rostov On Don"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+
+
+
+
+
+
+
+</ScrollView>

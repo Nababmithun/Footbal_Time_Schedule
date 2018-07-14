@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main4"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/black"
+    tools:context="ingenium.splashmyscreen.Main4Activity">
+
+
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:background="#FF961DE2"
+            android:textStyle="bold"
+            android:padding="15dp"
+            android:textSize="25dp"
+            android:textColor="@color/colorPrimary"
+            android:text="Match 5"
+            android:textAppearance="?android:textAppearance"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:text="France  Vs  Australina"
+            android:textSize="23dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:textSize="20dp"
+            android:text="16 June 2018,4AM"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:textSize="18dp"
+            android:text="Kazan Arena,Kazan"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+
+
+
+        <Button
+            android:background="#FF0CE66B"
+            android:textStyle="bold"
+            android:padding="15dp"
+            android:textSize="25dp"
+            android:textColor="@color/colorPrimary"
+            android:text="Match 6"
+            android:textAppearance="?android:textAppearance"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:text="Peru  Vs  Denmark"
+            android:textSize="23dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:textSize="20dp"
+            android:text="16 June 2018,5PM"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:textSize="18dp"
+            android:text="Mordovia Arena,Saransk"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+
+
+        <Button
+            android:background="#FF1964F1"
+            android:textStyle="bold"
+            android:padding="15dp"
+            android:textSize="25dp"
+            android:textColor="@color/colorPrimary"
+            android:text="Match 21"
+            android:textAppearance="?android:textAppearance"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:text="France  Vs  Peru"
+            android:textSize="23dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:textSize="20dp"
+            android:text="21 June 2018,6PM"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:textSize="18dp"
+            android:text="Central Stadium,Yekaterinburng"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <Button
+            android:background="#FFD5C7E9"
+            android:textStyle="bold"
+            android:padding="15dp"
+            android:textSize="25dp"
+            android:textColor="@color/colorPrimary"
+            android:text="Match 22"
+            android:textAppearance="?android:textAppearance"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:text="Denmark  Vs  Australia"
+            android:textSize="23dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:textSize="20dp"
+            android:text="21 June 2018,4PM"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:textSize="18dp"
+            android:text="Cosmos Arena,Samara"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+
+
+
+
+        <Button
+            android:background="#FF11F1D3"
+            android:textStyle="bold"
+            android:padding="15dp"
+            android:textSize="25dp"
+            android:textColor="@color/colorPrimary"
+            android:text="Match 37"
+            android:textAppearance="?android:textAppearance"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:text="Denmark  Vs  France"
+            android:textSize="23dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:textSize="20dp"
+            android:text="26 June 2018,8PM"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:textSize="18dp"
+            android:text="Luzhniki Stadium , Moscow"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+
+
+        <Button
+            android:background="#FFE21DB4"
+            android:textStyle="bold"
+            android:padding="15dp"
+            android:textSize="25dp"
+            android:textColor="@color/colorPrimary"
+            android:text="Match 38"
+            android:textAppearance="?android:textAppearance"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:text="Australia  Vs  Peru"
+            android:textSize="23dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:textSize="20dp"
+            android:text="26 June 2018,8PM"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textColor="#FFEBEFEF"
+            android:textSize="18dp"
+            android:text="Fisht Olympic,Sochi"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+
+
+
+
+
+</ScrollView>

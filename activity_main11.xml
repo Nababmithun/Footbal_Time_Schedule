@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main11"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/black"
+    tools:context="ingenium.splashmyscreen.Main11Activity">
+
+
+
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <Button
+            android:textAppearance="?android:textAppearance"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:text="Match-57,  6 July 2018 , 8PM"
+            android:layout_width="match_parent"
+            android:layout_height="100dp" />
+
+
+
+
+        <TextView
+            android:padding="3dp"
+            android:layout_gravity="center"
+            android:textColor="#FFF40F5B"
+            android:textSize="26dp"
+            android:text=" Winners Match 49"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+
+
+        <TextView
+            android:padding="3dp"
+            android:layout_gravity="center"
+            android:textColor="#FFA40FF4"
+            android:textSize="26dp"
+            android:text="Vs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:padding="3dp"
+            android:layout_gravity="center"
+            android:textColor="#FFF40F5B"
+            android:textSize="26dp"
+            android:text="Winners Match 50"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textColor="#FFA40FF4"
+            android:padding="3dp"
+            android:layout_gravity="center"
+            android:textSize="18dp"
+            android:text="Nizhny Novgorod Stadium, Nizhny Novgorod"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+
+
+        <Button
+            android:textAppearance="?android:textAppearance"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:text="Match-58,  6 July 2018 , 12PM"
+            android:layout_width="match_parent"
+            android:layout_height="100dp" />
+
+
+
+
+        <TextView
+            android:padding="3dp"
+            android:layout_gravity="center"
+            android:textColor="#FFF40F5B"
+            android:textSize="26dp"
+            android:text=" Winners Match 53"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+
+
+        <TextView
+            android:padding="3dp"
+            android:layout_gravity="center"
+            android:textColor="#FFA40FF4"
+            android:textSize="26dp"
+            android:text="Vs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:padding="3dp"
+            android:layout_gravity="center"
+            android:textColor="#FFF40F5B"
+            android:textSize="26dp"
+            android:text="Winners Match 54"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textColor="#FFA40FF4"
+            android:padding="3dp"
+            android:layout_gravity="center"
+            android:textSize="18dp"
+            android:text="Kazan Arena , Kazan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+
+
+        <Button
+            android:textAppearance="?android:textAppearance"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:text="Match-59,  7 July 2018 , 8PM"
+            android:layout_width="match_parent"
+            android:layout_height="100dp" />
+
+
+
+
+        <TextView
+            android:padding="3dp"
+            android:layout_gravity="center"
+            android:textColor="#FFF40F5B"
+            android:textSize="26dp"
+            android:text=" Winners Match 51"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+
+
+        <TextView
+            android:padding="3dp"
+            android:layout_gravity="center"
+            android:textColor="#FFA40FF4"
+            android:textSize="26dp"
+            android:text="Vs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:padding="3dp"
+            android:layout_gravity="center"
+            android:textColor="#FFF40F5B"
+            android:textSize="26dp"
+            android:text="Winners Match 52"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textColor="#FFA40FF4"
+            android:padding="3dp"
+            android:layout_gravity="center"
+            android:textSize="18dp"
+            android:text="Fisht Olympic Stadium, Sochi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+
+
+
+
+        <Button
+            android:textAppearance="?android:textAppearance"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:text="Match-60,  7 July 2018 , 12PM"
+            android:layout_width="match_parent"
+            android:layout_height="100dp" />
+
+
+
+
+        <TextView
+            android:padding="3dp"
+            android:layout_gravity="center"
+            android:textColor="#FFF40F5B"
+            android:textSize="26dp"
+            android:text=" Winners Match 55"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+
+
+        <TextView
+            android:padding="3dp"
+            android:layout_gravity="center"
+            android:textColor="#FFA40FF4"
+            android:textSize="26dp"
+            android:text="Vs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:padding="3dp"
+            android:layout_gravity="center"
+            android:textColor="#FFF40F5B"
+            android:textSize="26dp"
+            android:text="Winners Match 56"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:textColor="#FFA40FF4"
+            android:padding="3dp"
+            android:layout_gravity="center"
+            android:textSize="18dp"
+            android:text="Cosmos Arena,Samara"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</ScrollView>
